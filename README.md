@@ -1,2 +1,4 @@
 # Multi-Motor_Control_System
 The Multi-Motor Control System project sponsored by Hydro-gear consists of developing a control system able to drive six brushed DC motors coupled to a gearbox as a low cost alternative to using a single AC motor in the production of electric zero turn riding lawn mowers. Functionality will be replicated with the use of an embedded system, PWM circuitry, and circuit simulation software.
+
+Multiple motors, when linked to a common drive shaft, can produce the same torque as a single larger motor at a fraction of the cost. This creates an opportunity to decrease the total cost of systems which use motors of this variety, thus making them more attractive options for potential customers. This attraction can be increased more with promises of future repair savings by allowing each of the smaller motors to be independently diagnosable and exchangeable.
